@@ -7,7 +7,7 @@ const path = require("path");
 const JSON5 = require("json5");
 const { execSync } = require("child_process");
 const { PACKAGE, PACKAGES } = require("./constants");
-const { checkFolderWithInitOrClear } = require("../libs/fileHelper");
+const { checkFolderWithInitOrClear } = require("./libs/fileHelper");
 
 class InitializeProject {
     /**

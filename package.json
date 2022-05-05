@@ -1,10 +1,10 @@
 {
     "name": "@wmcashe/initialize-project",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "initialize project",
     "main": "index.js",
     "bin": {
-        "init-project": "./index.js"
+        "init-project": "bin/init-project.js"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
