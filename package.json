@@ -1,0 +1,26 @@
+{
+    "name": "@wmcashe/initialize-project",
+    "version": "1.0.0",
+    "description": "initialize project",
+    "main": "index.js",
+    "bin": {
+        "init-project": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "initialize project"
+    ],
+    "author": "wmcashe",
+    "license": "MIT",
+    "dependencies": {
+        "@wmcashe/devkits": "^1.0.5",
+        "inquirer": "^8.0.0",
+        "json5": "^2.2.0",
+        "prettier": "^2.6.2"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.30"
+    }
+}

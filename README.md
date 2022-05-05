@@ -1,2 +1,3 @@
-# -wmcashe-initialize-project
-initialize project
+# wmcashe-initialize-project
+
+    initialize project
